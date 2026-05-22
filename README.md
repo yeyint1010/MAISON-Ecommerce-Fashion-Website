@@ -1,4 +1,4 @@
-# CK-Admin-Dashboard
+# MAISON-Ecommerce-Fashion-Website
 # React + Vite Project
 
 This is a modern web application built with **React 18**, **Vite**, and **TypeScript**. It utilizes **Tailwind CSS** for utility-first styling.
